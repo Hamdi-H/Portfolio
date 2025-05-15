@@ -10,5 +10,20 @@ body{
     width: 100%;
     z-index: 1000;
 }
+.navdiv{
+    display: flex;
+    align-items: center; 
+    justify-content:space-between;
+}
+.wel{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 15px;
+    transition: all .50s ease;
+    font-family: serif;
+    margin-left: 100px;
+}
+
 
 
