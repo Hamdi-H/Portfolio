@@ -24,6 +24,26 @@ body{
     font-family: serif;
     margin-left: 100px;
 }
-
+.wel:hover{
+font-style: italic;
+letter-spacing: 3px;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 30px;
+    padding: 5px 0;
+    transition: all .30s ease;
+    text-decoration: none;
+}
+li a:hover{
+    font-style: italic;
+letter-spacing: 5px;
+}
 
 
