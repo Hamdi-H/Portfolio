@@ -1,5 +1,7 @@
 body{
-    background-color: #6a6969;
+    background-color: #9b9797;
+    margin: 0;
+    padding: 0;
 }
 .navbar{
     position: fixed;
@@ -9,6 +11,7 @@ body{
     right: 0;
     width: 100%;
     z-index: 1000;
+
 }
 .navdiv{
     display: flex;
@@ -45,5 +48,9 @@ li a:hover{
     font-style: italic;
 letter-spacing: 5px;
 }
-
-
+.intro{
+    margin-top: 400px;
+    font-size: x-large;
+    text-align: center;
+    font-style: italic;
+}
