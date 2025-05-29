@@ -54,3 +54,33 @@ letter-spacing: 5px;
     text-align: center;
     font-style: italic;
 }
+
+.About{
+    font-size: x-large;
+margin-top: 300px;
+}
+.About h1{
+text-align: center;
+}
+.About p{
+    font-style: italic;
+    margin: 10px;
+    text-align: center;
+align-items: center;
+font-weight: 600;
+}
+
+ .skill-item {
+    text-decoration: dotted;
+    display: list-item; 
+    font-size:x-large;
+    text-align: center;
+    font-weight: 600;
+} 
+.p{
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 600;
+}
+
